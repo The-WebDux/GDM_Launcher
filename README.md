@@ -1,4 +1,4 @@
-# GDM Launcher
+# GDM Launcher by vakh0 (WebDux)
 
 Family GTA ლაუნჩერი რომლის ფუნქციაც არის გადაწყობილი ჯეტია სამპი გაუშვას ვინდოუსზე
 
