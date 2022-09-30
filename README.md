@@ -9,4 +9,4 @@ Family GTA ლაუნჩერი რომლის ფუნქციაც 
 LINK: https://mega.nz/folder/aIsiSRZK#rVNdEaiKiLsojg2s1XVhrg
 
 სქრინი
-![image](https://raw.githubusercontent.com/vakh0/GDM_Launcher/main/Screenshot%202022-06-12%20171412.png)
+![image](https://github.com/vakh0/Screenshots/blob/main/GDM_Launcher/GDM_Screen.png)
